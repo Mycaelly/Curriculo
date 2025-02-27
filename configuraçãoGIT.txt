@@ -1,0 +1,2 @@
+git config --global user.name Mycaelly
+git config --global user.email mycaellytavela179@gmail.com
